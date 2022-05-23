@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/box-shadow-react/static/css/main.25bb24fc.css",
+    "main.js": "/box-shadow-react/static/js/main.88d8852e.js",
+    "static/js/787.b58c3057.chunk.js": "/box-shadow-react/static/js/787.b58c3057.chunk.js",
+    "static/media/copy-svgrepo-com.svg": "/box-shadow-react/static/media/copy-svgrepo-com.acac04bd10830377da7c6f421a7345c5.svg",
+    "index.html": "/box-shadow-react/index.html",
+    "main.25bb24fc.css.map": "/box-shadow-react/static/css/main.25bb24fc.css.map",
+    "main.88d8852e.js.map": "/box-shadow-react/static/js/main.88d8852e.js.map",
+    "787.b58c3057.chunk.js.map": "/box-shadow-react/static/js/787.b58c3057.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25bb24fc.css",
+    "static/js/main.88d8852e.js"
+  ]
+}
